@@ -1,4 +1,5 @@
 # Kidney-Tumor-Identification-System
+Kidney Tumor Identification System is a deep learning application that detects and classifies kidney tumors from CT scans. Using CNN models and MLOps practices, it delivers accurate automated diagnostics, reduces radiologists’ workload, and supports faster clinical decision-making to improve patient outcomes.
 <div align="center">
 
 # 🚀 Project Preview
